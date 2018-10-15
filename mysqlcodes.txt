@@ -1,0 +1,4 @@
+create database to_do_list;
+
+create table list (info varchar(100) not null, SrNo int(3),mark int(1) set default 0);
+
