@@ -8,3 +8,8 @@ on netbeans just import this package from file and yes you are ready  to unleash
 run the loginpage to get complete view
 username- lokesh
 password-goel
+
+
+
+# important you would need to add your mysql password in the source code in all the places where connection is used. 
+as it varies it couldnt be pre-implied
